@@ -2,4 +2,6 @@
 
 A new Flutter application.
 
-![](app.png)
+<img src="app.png"
+     alt="app image"
+     style="float: left; margin-right: 10px;" />
