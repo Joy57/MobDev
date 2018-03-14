@@ -2,6 +2,4 @@
 
 A new Flutter application.
 
-<img src="app.png"
-     alt="app image"
-     style="float: left; margin-right: 10px;" />
+<img src="app.png" alt="App View" width="500" height="377">
